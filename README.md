@@ -1,7 +1,8 @@
 # PROFILER X³ // A.C.E. (Attribution & Cultural Engine)
 
 > **Multi-Disciplinary Forensic Linguistics, Cyber-Ethnography & Behavioral Threat Attribution Terminal**
-![Uploading image.png…]()
+<img width="1920" height="1080" alt="{B619F184-A8AF-463D-936C-D7C00AF1A0EB}" src="https://github.com/user-attachments/assets/d7dbc5aa-2c23-4674-bb62-298ab17c368a" />
+
 
 
 ## Overview
